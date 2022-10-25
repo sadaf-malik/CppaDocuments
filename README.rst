@@ -1,4 +1,6 @@
-CPPA and MMS documnets
+CPPA and MMS documents
+
+
 Template for the Read the Docs tutorial
 =======================================
 
