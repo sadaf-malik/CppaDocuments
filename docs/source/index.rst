@@ -25,4 +25,4 @@ Contents
    usage
    api
    MMS Market Commercial Code :download:`<../Market Commercial Code.docx>`
-   
+   Billing and Settlement Process :download:`<../Manual - Billing and Settlement Process 1.2 26-08-21 (R 07-09-21).docx>`
