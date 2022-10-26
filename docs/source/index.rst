@@ -9,6 +9,9 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+here is a pdf file :download:`pdf <doc/Market Commercial Code.docx>`
+
+
 .. note::
 
    This project is under active development.
@@ -20,3 +23,5 @@ Contents
 
    usage
    api
+   
+   
