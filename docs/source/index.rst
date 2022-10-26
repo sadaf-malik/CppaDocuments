@@ -9,8 +9,9 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-here is a pdf file :download:`pdf <doc/Market Commercial Code.docx>`
+here is a pdf file :download:`docx <docs/Market Commercial Code.docx>`
 
+MMS Market Commercial Code :download:`this Word document <docs/Market Commercial Code.docx>`
 
 .. note::
 
