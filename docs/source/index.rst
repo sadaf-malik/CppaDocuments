@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 here is a pdf file :download:`docx <docs/Market Commercial Code.docx>`
 
-MMS Market Commercial Code :download:`this Word document <docs/Market Commercial Code.docx>`
+MMS Market Commercial Code :download:`MCC <../Market Commercial Code.docx>`
 
 .. note::
 
