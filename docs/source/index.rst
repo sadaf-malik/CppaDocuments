@@ -13,7 +13,7 @@ here is a pdf file :download:`docx <docs/Market Commercial Code.docx>`
 
 MMS Market Commercial Code :download:`MCC <../Market Commercial Code.docx>`
 
-Billing and Settlement Process :download:`<../Manual - Billing and Settlement Process 1.2 26-08-21 (R 07-09-21).docx>`
+Billing and Settlement Process :download:`BSP <../Manual - Billing and Settlement Process 1.2 26-08-21 (R 07-09-21).docx>`
 .. note::
 
    This project is under active development.
