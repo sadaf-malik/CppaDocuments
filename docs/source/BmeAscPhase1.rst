@@ -10,6 +10,7 @@ MMS BME Steps :download:`BME <../BmeAscPhase1Documents/MMS Monthly Settlement St
 MMS ASC Steps :download:`ASC <../BmeAscPhase1Documents/ASC Sattlement_StepsAndStructure V4.6.xlsx>`
 
 
-MMS ASC Steps Summary:download:`ASC Summary <../BmeAscPhase1Documents/ASC Steps Summary.docx>`
+MMS ASC Steps Summary :download:`ASC Summary <../BmeAscPhase1Documents/ASC Steps Summary.docx>`
+
 
 
