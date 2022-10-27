@@ -1,5 +1,5 @@
 
-Market Commercial Code!
+Market Commercial Code
 ===================================
 
 **Market Commercial Code** documents are written for implementation of CTBCM project.
